@@ -46,6 +46,69 @@
 #define PB10                    21 
 
 
+#define PA11                    22
+#define PA12                    23
+#define PA13                    24
+#define PA14                    25
+#define PA15                    26
+
+#define PB2			27
+#define PB3			28
+#define PB4			29
+#define PB6			30
+#define PB7			31
+
+#define PC0  PC_0
+#define PC1  PC_1
+#define PC2  PC_2
+#define PC3  PC_3
+#define PC4  PC_4
+#define PC5  PC_5
+#define PC6  PC_6
+#define PC7  PC_7
+#define PC8  PC_8
+#define PC9  PC_9
+#define PC10 PC_10
+#define PC11 PC_11
+#define PC12 PC_12
+#define PC13 PC_13
+#define PC14 PC_14
+#define PC15 PC_15
+
+#define PD0  PD_0
+#define PD1  PD_1
+#define PD2  PD_2
+#define PD3  PD_3
+#define PD4  PD_4
+#define PD5  PD_5
+#define PD6  PD_6
+#define PD7  PD_7
+#define PD8  PD_8
+#define PD9  PD_9
+#define PD10 PD_10
+#define PD11 PD_11
+#define PD12 PD_12
+#define PD13 PD_13
+#define PD14 PD_14
+#define PD15 PD_15
+
+#define PE0  PE_0
+#define PE1  PE_1
+#define PE2  PE_2
+#define PE3  PE_3
+#define PE4  PE_4
+#define PE5  PE_5
+#define PE6  PE_6
+#define PE7  PE_7
+#define PE8  PE_8
+#define PE9  PE_9
+#define PE10 PE_10
+#define PE11 PE_11
+#define PE12 PE_12
+#define PE13 PE_13
+#define PE14 PE_14
+#define PE15 PE_15
+
 // Alternate pins number
 #define PA0_ALT1                (PA0  | ALT1) 
 #define PA1_ALT1                (PA1  | ALT1)
